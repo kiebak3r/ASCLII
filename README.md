@@ -2,11 +2,7 @@
 A CLI tool that adds ASCII art to the command line when opened for visual improvement.
 Supported on both Windows 10 and Windows 11.
 
-Using base colours
 ![image](https://github.com/kiebak3r/ASCLII/assets/113192732/5b44d32e-ffa2-48e4-8be5-4e614bea348d)
-
-Using custom colours
-![image](https://github.com/kiebak3r/ASCLII/assets/113192732/d3ad1a08-cb75-4848-bb42-7e00573825c7)
 
 # SETUP
 1. Run the "setup.py" script from the terminal in the project directory using: python setup.py
